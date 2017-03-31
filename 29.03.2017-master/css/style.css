@@ -1,0 +1,40 @@
+.txt>p{
+	color:white;
+	font-size: 18.5px;
+	font-weight:300; 
+}
+.txt1{
+   color:white;
+   text-transform: uppercase;
+   font-weight: 600;
+   font-size: 75px;
+
+}
+.txt span{
+	   color:#cee002;
+   text-transform: uppercase;
+   font-weight: 600;
+
+
+}
+.txt{
+	margin-top: 208.9px;
+	margin-left: 75.8px;
+}
+.hr1{
+	position: absolute;
+    margin-top: 13vh;
+    margin-bottom: 0;
+    height: 2.9px;
+    width: 97.9px;
+    background: #cee002;
+}
+.Created{
+	color:white;
+	float: left;
+	font-size: 17px;
+	margin-top: 230px;
+	margin-left: -150px;
+	position: fixed;
+
+}
